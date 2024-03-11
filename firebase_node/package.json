@@ -1,0 +1,22 @@
+{
+  "name": "firebase_cnnt",
+  "version": "1.0.0",
+  "description": "This is a simple firebase connectivity module via node",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "firebase",
+    "driver",
+    "node",
+    "npm",
+    "google"
+  ],
+  "author": "M A Harry J",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "firebase": "^10.8.1"
+  }
+}
